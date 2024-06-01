@@ -7,3 +7,7 @@ NexOS GRUB theme - AdisonCavani
 GNOME (desktop enviroment) - The GNOME project
 
 GDM3 (display manager) - The GNOME project
+
+Boot images - pabtsm
+
+GNOME theme - EliverLara
