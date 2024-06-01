@@ -2,7 +2,7 @@
 
 ## Credits (changes as i use or modify projects in the OS)
 
-NexOS GRUB theme - Coopydood
+NexOS GRUB theme - AdisonCavani
 
 GNOME (desktop enviroment) - The GNOME project
 
